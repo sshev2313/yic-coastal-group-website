@@ -218,6 +218,7 @@ section[data-testid="stMain"],
     border-radius: 20px;
     padding: 60px 48px 56px;
     color: #fff;
+    text-align: center;
     overflow: hidden;
     box-shadow: 0 14px 36px rgba(11,60,93,.22);
     margin-bottom: 20px;

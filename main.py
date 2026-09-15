@@ -1296,7 +1296,7 @@ elif page == NAV_ITEMS[5]:
     page_contact()
 
 show("""
-<div style="text-align:center;color:#5A7086;font-size:14px;margin-top:60px;line-height:1.9;
+<div style="text-align:center;color:#5A7086;font-size:13px;margin-top:60px;line-height:1.9;
             text-shadow:0 1px 2px rgba(255,255,255,.85);">
   © 2026 中国科学院烟台海岸带研究所 近岸河口物理海洋研究组<br>
   本站内容仅供学术交流使用

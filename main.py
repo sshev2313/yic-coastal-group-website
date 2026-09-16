@@ -1424,7 +1424,7 @@ def page_home():
     team_slides = [(url, "", "") for url in TEAM_PHOTOS]
     image_carousel(
         team_slides,
-        interval=5500,
+        interval=3000,
         show_caption=False,
         fade_duration=1.6,
         zoom_duration=10,

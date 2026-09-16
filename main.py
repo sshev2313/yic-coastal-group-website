@@ -161,7 +161,7 @@ PUBLICATIONS = [
 MEMBERS = [
     ("彭婕",         "特别研究助理", "台风—冷空气复合风浪数值模拟与机理研究",
      "jiepeng@yic.ac.cn", "pengjie.jpg"),
-    ("韩梦圆",       "博士研究生",   "黄河三角洲近岸水动力-地貌演变",
+    ("韩梦园",       "博士研究生",   "黄河三角洲近岸水动力-地貌演变",
      "hanmengyuan22@mails.ucas.ac.cn", "hanmengyuan.jpg"),
     ("董伟",         "硕士研究生",   "渤海海峡水动力过程",
      "dongwei241@mails.ucas.ac.cn", "dongwei.jpg"),
